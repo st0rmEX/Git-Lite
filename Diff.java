@@ -1,5 +1,5 @@
 package gitlet;
-
+//
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
@@ -19,7 +19,7 @@ import static java.lang.Math.max;
  *  initialize the data, methods allow computing longest common sequences
  *  and differences in the form of edits needed to convert one sequence to the
  *  next.
- *  @author Troy Burad */
+ */
 public class Diff {
 
     /** Set the sequences currently being compared to the contents

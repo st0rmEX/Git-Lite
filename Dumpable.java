@@ -1,5 +1,5 @@
 package gitlet;
-
+//
 import java.io.Serializable;
 
 /** An interface describing dumpable objects.

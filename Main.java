@@ -1,11 +1,12 @@
+/** Driver class for GitLite
+ *  @author Troy Burad
+ */
+
 package gitlet;
 
 import java.io.File;
 import java.util.Date;
 
-/** Driver class for GitLite
- *  @author Troy Burad
- */
 public class Main {
     /** Current working directory file shortcut.*/
     static final File CWD = new File(System.getProperty("user.dir"));

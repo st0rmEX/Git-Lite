@@ -18,10 +18,6 @@ import java.util.Arrays;
 import java.util.Formatter;
 import java.util.List;
 
-
-/** Assorted utilities.
- *  @author Troy Burad
- */
 class Utils {
 
     /* SHA-1 HASH VALUES. */
